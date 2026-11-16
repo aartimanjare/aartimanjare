@@ -64,6 +64,8 @@ A custom Frappe app on ERPNext v16 covering the full purchase cycle for a large 
 
 | Repository | What it is |
 |---|---|
+| ⭐ [frappe_payment_gateway_demo](https://github.com/aartimanjare/frappe_payment_gateway_demo) | Online payments for ERPNext: HMAC-signed webhooks, idempotent Payment Entry posting with row locks, scheduled reconciliation, multi-invoice allocation |
+| ⭐ [frappe_field_service_demo](https://github.com/aartimanjare/frappe_field_service_demo) | Field service on ERPNext: service contracts, automatic visit scheduling, technician mobile API, stock issue on visit completion |
 | [mobile_offline_sync](https://github.com/aartimanjare/mobile_offline_sync) | Frappe app for syncing data from mobile apps that work offline |
 | [frappe_app_fixtures](https://github.com/aartimanjare/frappe_app_fixtures) | Fixtures tooling for Frappe apps |
 | [.github](https://github.com/aartimanjare/.github) | Frappe pre-commit workflow templates for all repos |
